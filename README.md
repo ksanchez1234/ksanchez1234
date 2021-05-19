@@ -7,6 +7,6 @@ about the programming world 🌱. </p>
 <p> My current skills consist of software development, databases, and programming languages like JavaScript, Python, HTML, and C++. </p>
 <p> 💞️ Seeking new opportunities to grow my skills and be able to contribute in a team environment. </p>
 <br>
-<h3> 📫 Follow me on IG @<strong>chapiz2014</strong> or send me an email @<strong>karina.sanchez@pnmac.com</strong>. </h3>
+<p> 📫 Follow me on IG @<strong>chapiz2014</strong> or send me an email @<strong>karina.sanchez@pnmac.com</strong>. </p>
 
 
