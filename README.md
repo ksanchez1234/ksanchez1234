@@ -1,4 +1,4 @@
-👋 Hello!
+<h1> 👋 Hello! </h1>
 My name is Karina.
 I am a student at Southern New Hampshire University.
 Interested in optaining my BA in Computer Science and learning more
