@@ -1,6 +1,5 @@
 <h1> 👋 Hello! </h1>
 <p> My name is <strong>Karina</strong>. </p>
-<br>
 <p> I am a student at Southern New Hampshire University. </p>
 <p> Interested in obtaining my BA in Computer Science and learning more
 about the programming world 🌱. </p>
